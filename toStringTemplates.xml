@@ -1,0 +1,13 @@
+<application>
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="Marcels toString()" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="Marcels toString()" />
+          <option name="template" value="public String toString() {&#10;    #set ($autoImportPackages = 'java.util.Objects;')&#10;    ToStringBuilder builder = new ToStringBuilder(this, ToStringStyle.MULTI_LINE_STYLE); &#10;    #foreach ($member in $members)&#10;        builder.append(&quot;$member.name&quot;, $member.accessor);&#10;    #end &#10;    return builder.toString();&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/home/vanderwerf/Home/Development/hypotheek.net/WebModule/src/main/resources/public/js/app.js'" />
+    <option name="defaultScopeName" value="File '/home/vanderwerf/Home/Development/hypotheek.net/WebModule/src/main/resources/public/js/app.js'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/home/vanderwerf/Home/Development/hypotheek.net/WebModule/src/main/resources/public/js/app.js'" />
+  </component>
+</application>

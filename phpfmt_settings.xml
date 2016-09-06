@@ -1,0 +1,6 @@
+<application>
+  <component name="phpfmtSettings">
+    <option name="engineVersion" value="803.7" />
+    <option name="pharPath" value="$APPLICATION_PLUGINS_DIR$/fmt.phar" />
+  </component>
+</application>

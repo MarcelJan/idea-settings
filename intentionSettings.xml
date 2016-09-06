@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+    <ignoreAction name="PHP/Replace ternary expression with if clause" />
+    <ignoreAction name="PHP/Split string in two strings and concatenation" />
+  </component>
+</application>
