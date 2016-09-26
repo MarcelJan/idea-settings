@@ -1,13 +1,18 @@
 <keymap version="1" name="Default for XWin copy 3" parent="Default for XWin">
+  <action id="Console.TableResult.PreviousPage" />
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="NextParameter" />
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="tab" />
