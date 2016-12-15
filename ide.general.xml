@@ -8,6 +8,6 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="208" />
+    <entry key="ide.tooltip.initialDelay" value="109" />
   </component>
 </application>

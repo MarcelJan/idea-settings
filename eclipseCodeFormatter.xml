@@ -4,7 +4,6 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1455117085829" />
           <option name="name" value="default" />
           <option name="pathToConfigFileJava" value="$USER_HOME$/Home/Development/hypotheek.net/WebModule/javaformatter_hypotheek_net.xml" />
