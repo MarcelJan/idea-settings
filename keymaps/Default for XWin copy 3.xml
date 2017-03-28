@@ -5,6 +5,9 @@
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
   <action id="CollapseSelection" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Console.TableResult.PreviousPage" />
   <action id="Editor Undo">
     <mouse-shortcut keystroke="shift control alt button142" />
