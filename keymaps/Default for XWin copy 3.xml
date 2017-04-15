@@ -4,10 +4,15 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
+  <action id="CollapseSelection" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Console.TableResult.PreviousPage" />
   <action id="Editor Undo">
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />
@@ -15,6 +20,9 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="Macro.arrow">
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="MainMenu">
     <mouse-shortcut keystroke="shift control alt button143" />
