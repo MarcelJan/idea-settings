@@ -47,6 +47,12 @@
                     <MyPair>
                       <option name="status" value="closed" />
                     </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
                   </list>
                 </option>
               </Lesson>
@@ -69,6 +75,12 @@
                     </MyPair>
                     <MyPair>
                       <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
                     </MyPair>
                     <MyPair>
                       <option name="status" value="closed" />
@@ -114,6 +126,12 @@
                     <MyPair>
                       <option name="status" value="closed" />
                     </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
                   </list>
                 </option>
               </Lesson>
@@ -133,6 +151,12 @@
                     </MyPair>
                     <MyPair>
                       <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
                     </MyPair>
                     <MyPair>
                       <option name="status" value="closed" />
@@ -168,6 +192,12 @@
                     </MyPair>
                     <MyPair>
                       <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
                     </MyPair>
                     <MyPair>
                       <option name="status" value="closed" />
@@ -219,6 +249,12 @@
                     <MyPair>
                       <option name="status" value="closed" />
                     </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
                   </list>
                 </option>
               </Lesson>
@@ -228,6 +264,12 @@
                   <list>
                     <MyPair>
                       <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
                     </MyPair>
                     <MyPair>
                       <option name="status" value="closed" />
