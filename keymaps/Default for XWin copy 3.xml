@@ -9,6 +9,10 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Console.TableResult.PreviousPage" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
   <action id="Editor Undo">
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
@@ -17,9 +21,14 @@
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
+  <action id="Gauge.Format" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="down" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="up" />
   </action>
   <action id="Macro.arrow">
     <keyboard-shortcut first-keystroke="ctrl period" />
@@ -35,11 +44,21 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="PopupHector" />
   <action id="PreviousOccurence" />
   <action id="RecentChangedFiles" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="tab" />
+  <action id="RecentChanges">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="ShowReformatFileDialog" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl pause" />
@@ -58,5 +77,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
 </keymap>
