@@ -154,6 +154,7 @@
               </Lesson>
               <Lesson>
                 <option name="name" value="Completion with Tab" />
+                <option name="passed" value="true" />
                 <option name="statistic">
                   <list>
                     <MyPair>
@@ -161,6 +162,12 @@
                     </MyPair>
                     <MyPair>
                       <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
                     </MyPair>
                   </list>
                 </option>
@@ -176,15 +183,101 @@
             <list>
               <Lesson>
                 <option name="name" value="Rename" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #2" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #3" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Extract Variable/Field" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Extract Method" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Refactoring Basics" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #2" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #3" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
             </list>
           </option>
@@ -197,18 +290,144 @@
             <list>
               <Lesson>
                 <option name="name" value="Folding" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Code Formatting" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Parameter Info" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Quick Popups" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #2" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Editor Coding Assistance" />
+                <option name="passed" value="true" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #0" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #1" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #2" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #3" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #4" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="passed item #5" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="finished" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
             </list>
           </option>
@@ -238,6 +457,6 @@
         </course>
       </list>
     </option>
-    <option name="lastActivityTime" value="1494088190917" />
+    <option name="lastActivityTime" value="1494089450874" />
   </component>
 </application>
