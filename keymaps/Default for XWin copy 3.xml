@@ -4,7 +4,6 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
-  <action id="CollapseSelection" />
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -28,9 +27,6 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f2" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="up" />
-  </action>
-  <action id="Macro.arrow">
-    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="MainMenu">
     <mouse-shortcut keystroke="shift control alt button143" />
