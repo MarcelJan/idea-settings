@@ -34,11 +34,17 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="NextParameter" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
+  </action>
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="PopupHector" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="SaveAll" />
   <action id="SelectInProjectView">
