@@ -15,7 +15,6 @@
   <action id="Editor Undo">
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
-  <action id="EditorChooseLookupItemDot" />
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
