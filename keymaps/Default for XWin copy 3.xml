@@ -4,7 +4,6 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
-  <action id="CollapseSelection" />
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -17,7 +16,6 @@
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
   <action id="EditorChooseLookupItemDot" />
-  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
@@ -29,9 +27,6 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f2" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="up" />
-  </action>
-  <action id="Macro.arrow">
-    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="MainMenu">
     <mouse-shortcut keystroke="shift control alt button143" />
@@ -46,11 +41,6 @@
   </action>
   <action id="PopupHector" />
   <action id="PreviousOccurence" />
-  <action id="RecentChangedFiles" />
-  <action id="RecentChanges">
-    <keyboard-shortcut first-keystroke="shift alt c" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
   <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
