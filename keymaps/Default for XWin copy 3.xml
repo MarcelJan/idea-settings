@@ -19,6 +19,9 @@
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
   <action id="Gauge.Format" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="down" />
