@@ -1,0 +1,7 @@
+<application>
+  <component name="XQueryDataSourcesSettings">
+    <list>
+      <data-source-configuration name="BaseX" type="BASEX" host="localhost" port="1984" username="admin" password="admin" />
+    </list>
+  </component>
+</application>
