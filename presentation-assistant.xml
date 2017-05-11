@@ -6,7 +6,7 @@
         <option name="name" value="Emacs" />
       </KeymapDescription>
     </option>
-    <option name="fontSize" value="14" />
+    <option name="fontSize" value="20" />
     <option name="mainKeymap">
       <KeymapDescription>
         <option name="displayText" value="Default" />
