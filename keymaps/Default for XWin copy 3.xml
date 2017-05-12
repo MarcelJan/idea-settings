@@ -7,6 +7,7 @@
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Console.History.Browse" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
@@ -47,6 +48,7 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="PerforceDirect.Edit" />
   <action id="PopupHector" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
@@ -83,5 +85,8 @@
   <action id="Switcher" />
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
 </keymap>
