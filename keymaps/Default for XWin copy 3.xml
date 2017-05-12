@@ -8,6 +8,8 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
@@ -15,11 +17,13 @@
   <action id="Editor Undo">
     <mouse-shortcut keystroke="shift control alt button142" />
   </action>
-  <action id="EditorChooseLookupItemDot" />
   <action id="EditorIndentSelection" />
   <action id="EditorTab" />
   <action id="ExpandLiveTemplateByTab" />
   <action id="Gauge.Format" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="down" />
@@ -35,11 +39,19 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="NextParameter" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="PopupHector" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="SaveAll" />
   <action id="SelectInProjectView">
@@ -68,6 +80,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Switcher" />
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>

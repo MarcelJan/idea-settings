@@ -1,6 +1,18 @@
 <application>
   <component name="PresentationAssistant">
-    <option name="alternativeKeymap" />
-    <option name="fontSize" value="14" />
+    <option name="alternativeKeymap">
+      <KeymapDescription>
+        <option name="displayText" value="Emacs" />
+        <option name="name" value="Emacs" />
+      </KeymapDescription>
+    </option>
+    <option name="fontSize" value="20" />
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="displayText" value="Default" />
+        <option name="name" value="$default" />
+      </KeymapDescription>
+    </option>
+    <option name="showActionDescriptions" value="false" />
   </component>
 </application>

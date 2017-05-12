@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="Nashorn JS" injector-id="java">
+      <display-name>DefaultExtractor.extract (com.hypotheek.importer.service.extract)</display-name>
+      <place><![CDATA[psiMethod().withName("extract").withParameters("java.nio.file.Path").definedInClass("com.hypotheek.importer.service.extract.DefaultExtractor")]]></place>
+    </injection>
     <injection language="JPAQL" injector-id="java">
       <display-name>EntityManager (javax.persistence)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
