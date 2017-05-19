@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="hrsolution" value="class Solution {&#10;    $type$ $name$;&#10;    &#10;    Solution($type$ $name$) {&#10;        this.$name$ = $name$;&#10;    }&#10;    &#10;    void write() {&#10;         System.out.println($name$$END$);&#10;    }    &#10;}" description="Solution" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="type" expression="" defaultValue="int" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="value" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
