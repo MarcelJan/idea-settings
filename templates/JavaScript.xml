@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log(JSON.stringify($SELECTION$, null, 2));$END$" description="Logs a pretty JSON-stringified version of the argument" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
