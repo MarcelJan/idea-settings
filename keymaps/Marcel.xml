@@ -1,84 +1,72 @@
 <keymap version="1" name="Marcel" parent="Default for XWin">
-  <action id="$SelectAll" />
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button10" />
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <mouse-shortcut keystroke="shift control alt button142" />
   </action>
-  <action id="EditorChooseLookupItemReplace" />
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Console.History.Browse" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="Editor Undo">
+    <mouse-shortcut keystroke="shift control alt button142" />
   </action>
   <action id="EditorIndentSelection" />
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="ctrl a" />
-  </action>
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
-    <keyboard-shortcut first-keystroke="shift ctrl a" />
-  </action>
-  <action id="EditorMoveToPageBottom" />
-  <action id="EditorMoveToPageTop" />
   <action id="EditorTab" />
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
   <action id="ExpandLiveTemplateByTab" />
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-    <mouse-shortcut keystroke="button9" />
-  </action>
-  <action id="GotoAction" />
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
+  <action id="Gauge.Format" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="down" />
   </action>
-  <action id="GuiDesigner.QuickJavadoc">
-    <mouse-shortcut keystroke="alt button2" />
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="up" />
   </action>
   <action id="MainMenu">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="alt down" />
-    <mouse-shortcut keystroke="button4" />
-  </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="alt up" />
-    <mouse-shortcut keystroke="button5" />
+    <mouse-shortcut keystroke="shift control alt button143" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="MoveStatementUp" />
   <action id="NextParameter" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
+  <action id="PerforceDirect.Edit" />
+  <action id="PopupHector" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
-  <action id="RecentChangedFiles" />
-  <action id="RecentFiles" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="tab" />
+  <action id="PreviousOccurence" />
+  <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
   </action>
-  <action id="ResizeToolWindowUp" />
+  <action id="ShowReformatFileDialog" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -94,8 +82,11 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="UsageView.ShowRecentFindUsages" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl m" />
+  <action id="Switcher" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
 </keymap>
