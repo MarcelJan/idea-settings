@@ -110,6 +110,9 @@
   <action id="SaveAll" />
   <action id="Scala.Desugar" />
   <action id="SelectAllOccurrences" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="UnselectPreviousOccurrence" />
