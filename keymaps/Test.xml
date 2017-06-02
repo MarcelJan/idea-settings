@@ -1,4 +1,4 @@
-<keymap name="Emacs" parent="$default" version="1" disable-mnemonics="false">
+<keymap name="Test" parent="$default" version="1" disable-mnemonics="false">
     <action id="EditorEscape">
         <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="ESCAPE"/>
         <keyboard-shortcut first-keystroke="control G"/>
