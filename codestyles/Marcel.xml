@@ -10,6 +10,10 @@
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <option name="HTML_INLINE_ELEMENTS" value="" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <JSCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
