@@ -5,7 +5,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="CodeCompletion" />
+  <action id="CollapseSelection" />
   <action id="Diagram.SelectAll" />
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -63,6 +66,9 @@
     <keyboard-shortcut first-keystroke="shift right" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="EditorToggleStickySelection">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -78,6 +84,12 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
