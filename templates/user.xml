@@ -23,4 +23,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="F" value="$function$($SELECTION$)$END$" description="Surround with function call" toReformat="false" toShortenFQNames="true">
+    <variable name="function" expression="" defaultValue="functionName" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
