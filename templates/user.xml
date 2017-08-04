@@ -40,7 +40,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="importConnect" value="import {connect} from &quot;react-reduc&quot;;$END$" description="Import connect into the current module" toReformat="false" toShortenFQNames="true">
+  <template name="importConnect" value="import {connect} from &quot;react-redux&quot;;$END$" description="Import connect into the current module" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
