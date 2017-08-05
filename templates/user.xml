@@ -30,4 +30,25 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="importReact" value="import React from &quot;react&quot;;$END$" description="Import react into the current module" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="importPropTypes" value="import PropTypes from &quot;prop-types&quot;;$END$" description="Import PropTypes into the current module" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="importConnect" value="import {connect} from &quot;react-reduc&quot;;$END$" description="Import connect into the current module" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="reactClass" value="import React from &quot;react&quot;;&#10;import PropTypes from &quot;prop-types&quot;;&#10;&#10;class $NAME$ extends React.Component {&#10;    render() {&#10;        return (&#10;          &lt;$END$/&gt;&#10;        );&#10;    }&#10;}&#10;&#10;$NAME$.propTypes = {&#10;};&#10;&#10;export default $NAME$;&#10;" description="Create and export a react component based on the current filename" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
