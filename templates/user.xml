@@ -51,4 +51,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="d" value="android.util.Log.i(&quot;DEBUG_$CLASS_NAME$&quot;, $END$$SELECTION$);" description="Surround with android log" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
