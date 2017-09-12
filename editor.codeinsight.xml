@@ -6,6 +6,9 @@
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.*" />
+    <EXCLUDED_PACKAGE NAME="org.skyscreamer.jsonassert.*" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.test.util.*" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="100" />
