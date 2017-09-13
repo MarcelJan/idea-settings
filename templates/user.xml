@@ -57,4 +57,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="psts" value="public String toString() {&#10;    return String.format(&quot;[$CLASS$]&quot;);&#10;}" description="insert a toString template" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className(sClassName)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
