@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/ws/2004/09/policy/optimizedmimeserialization" location="$USER_HOME$/Home/Development/Verzekering/InsuranceProcessor/src/main/resources/schemas/optimizedmimeserialization-policy.xsd" />
+    <resource url="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy" location="$USER_HOME$/Home/Development/Verzekering/InsuranceProcessor/src/main/resources/schemas/optimizedmimeserialization-policy.xsd" />
+    <ignored-resource url="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" />
+    <ignored-resource url="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" />
+  </component>
+</application>
