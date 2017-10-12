@@ -8,6 +8,7 @@
       <mapping pattern="neat_settings" type="Sass" />
       <mapping ext="volt" type="Twig" />
       <mapping ext="wdsl" type="XML" />
+      <mapping ext="gim" type="XML" />
     </extensionMap>
   </component>
 </application>
